@@ -1,0 +1,23 @@
+{
+    "name": "plena-vida-site",
+    "version": "1.0.0",
+    "description": "Premium institutional website for Plena Vida Corretora de Seguros",
+    "main": "index.html",
+    "scripts": {
+        "start": "serve .",
+        "dev": "serve .",
+        "build": "echo \"No build step required for static site\"",
+        "preview": "serve .",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "insurance",
+        "healthcare",
+        "website"
+    ],
+    "author": "Plena Vida",
+    "license": "ISC",
+    "devDependencies": {
+        "serve": "^14.2.0"
+    }
+}
